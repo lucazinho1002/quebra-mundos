@@ -34,7 +34,7 @@ $btnJogar.Add_Click({
 $form.Controls.Add($btnJogar)
 
 $lblVersao = New-Object System.Windows.Forms.Label
-$lblVersao.Text = "v0.1"
+$lblVersao.Text = "v0.2"
 $lblVersao.Font = New-Object System.Drawing.Font("Arial", 9)
 $lblVersao.ForeColor = [System.Drawing.Color]::Gray
 $lblVersao.Size = New-Object System.Drawing.Size(60, 20)
